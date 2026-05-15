@@ -49,11 +49,7 @@ I am a passionate developer focused on creating clean, responsive, and user-frie
 Click on the links below to check out my finished works:
 
 
-<p align="center">
-  <a href="https://github.com/fokasdev/profil-card">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fokasdev&repo=profil-card&theme=tokyonight" alt="Profil Card" />
-  </a>
-</p>
+🚀 [Profil Card](https://github.com/fokasdev/profil-card) – A stylish personal profile card built with HTML and CSS.
 
 
 * ⏳ **In Progress:** I am planning and preparing my next big project...
