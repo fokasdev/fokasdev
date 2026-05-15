@@ -52,7 +52,7 @@ Click on the links below to check out my finished works:
 
 🚀 [Blog Preview](https://github.com/fokasdev/blog-preveiw) – A modern blog post preview card
 
-🚀 [Results Summary Component](https://fokasdev.github.io/Results-summary-component/) – A challenge to practice Flexbox and data rendering.
+🚀 [Results Summary Component](https://github.com/fokasdev/Results-summary-component) – A challenge to practice Flexbox and data rendering.
 
 * ⏳ **In Progress:** I am planning and preparing my next big project...
 * 📚 **Learning:** Deepening my knowledge in ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
