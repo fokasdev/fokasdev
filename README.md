@@ -46,11 +46,11 @@ I am a passionate developer focused on creating clean, responsive, and user-frie
 Click on the links below to check out my finished works:
 
 
-🚀 Profil Card [Click](https://github.com/fokasdev/profil-card) – A stylish personal profile card built with HTML and CSS.
+🚀 [Profil Car](https://github.com/fokasdev/profil-card) – A stylish personal profile card built with HTML and CSS.
 
-🚀 Qr Code [Click](https://github.com/fokasdev/qr-code) –
+🚀 [Qr Code](https://github.com/fokasdev/qr-code) – A responsive QR code component challenge.
 
-🚀 Blog Preview [Click](https://github.com/fokasdev/blog-preveiw) –
+🚀 [Blog Preview](https://github.com/fokasdev/blog-preveiw) – A modern blog post preview card
 
 
 * ⏳ **In Progress:** I am planning and preparing my next big project...
