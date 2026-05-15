@@ -47,6 +47,8 @@ Click on the links below to check out my finished works:
 
 
 🚀 Profil Card [Click](https://github.com/fokasdev/profil-card) – A stylish personal profile card built with HTML and CSS.
+🚀 Qr Code [Click](https://github.com/fokasdev/qr-code) –
+🚀 Blog Preview [Click]((https://github.com/fokasdev/blog-preveiw)) –
 
 
 * ⏳ **In Progress:** I am planning and preparing my next big project...
