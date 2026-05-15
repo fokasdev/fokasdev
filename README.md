@@ -22,6 +22,7 @@ I am a passionate developer focused on creating clean, responsive, and user-frie
 
 **Terminal:** Bash / Zsh
 
+
 **📂 Completed Projects**
 Click on the links below to check out my finished works:
-🚀  – A short description of what it does. | View Repository
+🚀 Profil Card – A short description of what it does. | 
