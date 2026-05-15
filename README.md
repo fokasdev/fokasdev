@@ -39,9 +39,6 @@ I am a passionate developer focused on creating clean, responsive, and user-frie
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fokasdev&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
 
 ---
 
@@ -49,7 +46,7 @@ I am a passionate developer focused on creating clean, responsive, and user-frie
 Click on the links below to check out my finished works:
 
 
-🚀 [Profil Card](https://github.com/fokasdev/profil-card) – A stylish personal profile card built with HTML and CSS.
+🚀 Profil Card [Click](https://github.com/fokasdev/profil-card) – A stylish personal profile card built with HTML and CSS.
 
 
 * ⏳ **In Progress:** I am planning and preparing my next big project...
