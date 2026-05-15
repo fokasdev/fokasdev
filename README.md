@@ -51,7 +51,7 @@ Click on the links below to check out my finished works:
 
 <p align="center">
   <a href="https://github.com/fokasdev/profil-card">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fokasdev&&repo=profil-card&theme=tokyonight&cache_seconds=1>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fokasdev&repo=profil-card&theme=tokyonight" alt="Profil Card" />
   </a>
 </p>
 
