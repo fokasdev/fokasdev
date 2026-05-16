@@ -58,7 +58,7 @@ Click on the links below to check out my finished works:
 
 🚀 [NFT Preview Card](https://github.com/fokasdev/NFT-preview-card-component) – A sleek NFT card component with hover effects.
 
-🚀 [Order Summary Card](https://fokasdev.github.io/Order-summary-component/) – A neat subscription card component with hover effects and responsive background patterns.
+🚀 [Order Summary Card](https://github.com/fokasdev/Order-summary-component) – A neat subscription card component with hover effects and responsive background patterns.
 
 * ⏳ **In Progress:** I am planning and preparing my next big project...
 * 📚 **Learning:** Deepening my knowledge in ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
